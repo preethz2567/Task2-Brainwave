@@ -1,4 +1,5 @@
 # Stellar Crust - E-Commerce Bakery Website
+## INTERNSHIP ORGANIZATION - BRAINWAVE MATRIX SOLUTIONS 
 
 ## Overview
 Welcome to the Stellar Crust e-commerce bakery website! This project is part of Task 2 for my internship at Brainwave Matrix Solutions. The goal is to design and develop a fully functional, dynamic e-commerce website for a bakery cafe named Stellar Crust. This README provides an overview of the project, including its features, technologies used, and instructions for running the website locally.
@@ -73,17 +74,7 @@ Welcome to the Stellar Crust e-commerce bakery website! This project is part of 
 - **HTML5**: For structuring the website content.
 - **CSS3**: For styling and layout design, including responsive design using media queries.
 - **JavaScript**: For interactivity and dynamic content generation.
-- 
-
-## How to Run
-1. Clone the repository or download the project files.
-   ```bash
-   git clone https://github.com/your-repo/stellar-crust.git
-   ```
-2. Open the project folder and navigate to `index.html`.
-3. Open `index.html` in a web browser to view the website.
-
----
+  
 
 ## Future Enhancements
 - **Backend Integration**: Connect the website to a database for user authentication, table reservations, and order management.
