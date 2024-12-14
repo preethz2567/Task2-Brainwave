@@ -29,9 +29,8 @@ Welcome to the Stellar Crust e-commerce bakery website! This project is part of 
 
 
 ### 2. **Menu Items Page**
-   - Displays a dynamic list of bakery items, including images, descriptions, and prices.
+   - Displays a dynamic list of bakery items, including images and descriptions.
    - Users can browse through various categories such as cakes, pastries, breads, and beverages.
-   - Includes filtering options for easy navigation.
 
 
 ![bak3](https://github.com/user-attachments/assets/317987b3-e63b-4aa1-9057-355fbd9ea4e7)
@@ -85,7 +84,7 @@ Welcome to the Stellar Crust e-commerce bakery website! This project is part of 
 ---
 
 ## Acknowledgments
-This project is a part of my internship with Brainwave Matrix Solutions. Special thanks to my mentors and team for their guidance and support.
+This project is a part of my internship with Brainwave Matrix Solutions. Special thanks to my mentors for their guidance and support.
 
 
 Thank you for exploring Stellar Crust! Enjoy the delicious treats.
