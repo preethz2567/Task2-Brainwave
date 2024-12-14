@@ -2,7 +2,7 @@
 ## INTERNSHIP ORGANIZATION - BRAINWAVE MATRIX SOLUTIONS 
 
 ## Overview
-Welcome to the Stellar Crust e-commerce bakery website! This project is part of ## Task 2 for my internship at Brainwave Matrix Solutions. The goal is to design and develop a fully functional, dynamic e-commerce website for a bakery cafe named Stellar Crust. This README provides an overview of the project, including its features, technologies used, and instructions for running the website locally.
+Welcome to the Stellar Crust e-commerce bakery website! This project is part of **Task 2** for my internship at Brainwave Matrix Solutions. The goal is to design and develop a fully functional, dynamic e-commerce website for a bakery cafe named Stellar Crust. This README provides an overview of the project, including its features, technologies used, and instructions for running the website locally.
 
 ---
 
